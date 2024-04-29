@@ -11,13 +11,13 @@ export const metadata = {
 };
 
 const theme = createTheme({
-  /** Put your mantine theme override here */
-});
+  primaryColor: 'cyan'
+})
 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      
+
       <body className={inter.className}>
         <MantineProvider theme={theme} defaultColorScheme="dark">
           {children}

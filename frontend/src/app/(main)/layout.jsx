@@ -1,11 +1,15 @@
+'use client';
 import React from 'react'
-import Navbar from './navbar';
+import { HeaderMegaMenu } from './header';
+import { FooterLinks } from './FooterLinks';
+
 
 const MainLayout = ({ children }) => {
     return (
         <>
-            <Navbar />
+            <HeaderMegaMenu />
             {children}
+            <FooterLinks />
         </>
     )
 }
