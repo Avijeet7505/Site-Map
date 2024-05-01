@@ -20,9 +20,9 @@ import {
 import { GoogleButton } from './GoogleButton';
 import { TwitterButton } from './TwitterButton';
 import classes from './login.module.css';
+import Link from 'next/link';
 
 const AuthenticationForm = (props) => {
-  const [type, toggle] = useToggle(['login', 'register']);
   const form = useForm({
     initialValues: {
       email: '',
@@ -42,7 +42,7 @@ const AuthenticationForm = (props) => {
       <Container size='xs'>
         <Paper radius="md" p="xl" withBorder {...props}>
           <Text size="lg" fw={500}>
-            Welcome to Mantine, {type} with
+            Welcome to Mantine, Login with
           </Text>
 
           <Group grow mb="md" mt="md">
@@ -54,15 +54,7 @@ const AuthenticationForm = (props) => {
 
           <form onSubmit={form.onSubmit(() => { })}>
             <Stack>
-              {type === 'register' && (
-                <TextInput
-                  label="Name"
-                  placeholder="Your name"
-                  value={form.values.name}
-                  onChange={(event) => form.setFieldValue('name', event.currentTarget.value)}
-                  radius="md"
-                />
-              )}
+
 
               <TextInput
                 required
@@ -84,23 +76,14 @@ const AuthenticationForm = (props) => {
                 radius="md"
               />
 
-              {type === 'register' && (
-                <Checkbox
-                  label="I accept terms and conditions"
-                  checked={form.values.terms}
-                  onChange={(event) => form.setFieldValue('terms', event.currentTarget.checked)}
-                />
-              )}
             </Stack>
 
             <Group justify="space-between" mt="xl">
-              <Anchor component="button" type="button" c="dimmed" onClick={() => toggle()} size="xs">
-                {type === 'register'
-                  ? 'Already have an account? Login'
-                  : "Don't have an account? Register"}
+              <Anchor component={Link} type="button" c="dimmed" href={'/signup'} size="xs">
+                Don't have an account? Register
               </Anchor>
               <Button type="submit" color='indigo' radius="xl">
-                {upperFirst(type)}
+                Login
               </Button>
             </Group>
           </form>

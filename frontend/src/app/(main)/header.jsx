@@ -32,6 +32,8 @@ import {
   IconChevronDown,
 } from '@tabler/icons-react';
 import classes from './header.module.css';
+import Link from 'next/link';
+import { ActionToggle } from './ActionToggle';
 
 const mockdata = [
   {
@@ -96,10 +98,10 @@ export function HeaderMegaMenu() {
           <MantineLogo size={30} />
 
           <Group h="100%" gap={0} visibleFrom="sm">
-            <a href="#" className={classes.link}>
+            <Link href="/home" className={classes.link}>
               Home
-            </a>
-            <HoverCard width={600} position="bottom" radius="md" shadow="md" withinPortal>
+            </Link>
+            {/* <HoverCard width={600} position="bottom" radius="md" shadow="md" withinPortal>
               <HoverCard.Target>
                 <a href="#" className={classes.link}>
                   <Center inline>
@@ -142,17 +144,19 @@ export function HeaderMegaMenu() {
                   </Group>
                 </div>
               </HoverCard.Dropdown>
-            </HoverCard>
-            <a href="#" className={classes.link}>
-              Learn
-            </a>
-            <a href="#" className={classes.link}>
-              Academy
-            </a>
+            </HoverCard> */}
+            <Link href="/about" className={classes.link}>
+              About
+            </Link>
+            <Link href="/contact" className={classes.link}>
+              Contact
+            </Link>
+
           </Group>
 
           <Group visibleFrom="sm">
-            <Button variant="default">Log in</Button>
+            <ActionToggle></ActionToggle>
+            <Link className='nav-link' href='/login'><Button variant="default">Log in</Button></Link>
             <Button>Sign up</Button>
           </Group>
 
@@ -172,10 +176,10 @@ export function HeaderMegaMenu() {
         <ScrollArea h={`calc(100vh - ${rem(80)})`} mx="-md">
           <Divider my="sm" />
 
-          <a href="#" className={classes.link}>
+          <Link href="#" className={classes.link}>
             Home
-          </a>
-          <UnstyledButton className={classes.link} onClick={toggleLinks}>
+          </Link>
+          {/* <UnstyledButton className={classes.link} onClick={toggleLinks}>
             <Center inline>
               <Box component="span" mr={5}>
                 Features
@@ -186,18 +190,17 @@ export function HeaderMegaMenu() {
               />
             </Center>
           </UnstyledButton>
-          <Collapse in={linksOpened}>{links}</Collapse>
-          <a href="#" className={classes.link}>
-            Learn
-          </a>
-          <a href="#" className={classes.link}>
-            Academy
-          </a>
-
+          <Collapse in={linksOpened}>{links}</Collapse> */}
+          <Link href="#" className={classes.link}>
+            About Us
+          </Link>
+          <Link href="/contact" className={classes.link}>
+            Contact Us
+          </Link>
           <Divider my="sm" />
 
           <Group justify="center" grow pb="xl" px="md">
-            <Button variant="default">Log in</Button>
+            <Link className='nav-link' href='/login'><Button variant="default">Log in</Button></Link>
             <Button>Sign up</Button>
           </Group>
         </ScrollArea>
