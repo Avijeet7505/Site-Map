@@ -21,28 +21,60 @@ import { GoogleButton } from './GoogleButton';
 import { TwitterButton } from './TwitterButton';
 import classes from './login.module.css';
 import Link from 'next/link';
+import toast from 'react-hot-toast';
+import { useRouter } from 'next/navigation';
+import React from 'react';
 
 const AuthenticationForm = (props) => {
+
+  const router = useRouter();
+
   const form = useForm({
     initialValues: {
       email: '',
-      name: '',
-      password: '',
-      terms: true,
+      password: ''
     },
 
     validate: {
       email: (val) => (/^\S+@\S+$/.test(val) ? null : 'Invalid email'),
       password: (val) => (val.length <= 6 ? 'Password should include at least 6 characters' : null),
-    },
+    }
   });
+
+  const handleLoginSubmit = (values) => {
+    console.log(values);
+    fetch('http://localhost:5500/user/authenticate', {
+      method: 'POST',
+      body: JSON.stringify(values),
+      headers: {
+        'Content-Type': 'application/json'
+      }
+    })
+      .then((response) => {
+        if (response.status === 200) {
+          toast.success('Login Successfull');
+
+          response.json()
+            .then((data) => {
+              sessionStorage.setItem('user', JSON.stringify(data));
+              router.push('/about');
+            })
+
+        } else {
+          toast.error('Invalid Credentials');
+        }
+      }).catch((err) => {
+        console.log(err);
+        toast.error('Something went wrong');
+      });
+  }
 
   return (
     <Box className={classes.bg}>
       <Container size='xs'>
         <Paper radius="md" p="xl" withBorder {...props}>
           <Text size="lg" fw={500}>
-            Welcome to Mantine, Login with
+            Welcome to Site-Map, Login with
           </Text>
 
           <Group grow mb="md" mt="md">
@@ -52,7 +84,7 @@ const AuthenticationForm = (props) => {
 
           <Divider label="Or continue with email" labelPosition="center" my="lg" />
 
-          <form onSubmit={form.onSubmit(() => { })}>
+          <form onSubmit={form.onSubmit(handleLoginSubmit)}>
             <Stack>
 
 

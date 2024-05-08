@@ -25,7 +25,7 @@ export function ContactUs() {
   ));
 
   return (
-    <Container mt='xl' mb='xl'>
+    <Container my={120}>
       <div className={classes.wrapper}>
         <Container size='md'>
           <SimpleGrid cols={{ base: 1, sm: 2 }} spacing={50}>

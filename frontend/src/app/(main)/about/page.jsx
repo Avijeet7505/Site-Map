@@ -1,9 +1,10 @@
 import React from 'react'
+import { InputWithButton } from './InputWithButton'
 
 const About = () => {
   return (
-    <div>About</div>
+    <div><InputWithButton></InputWithButton></div>
   )
 }
 
-export default About;
+export default About

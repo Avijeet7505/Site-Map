@@ -19,6 +19,7 @@ import {
   ScrollArea,
   rem,
   useMantineTheme,
+  Image,
 } from '@mantine/core';
 import { MantineLogo } from '@mantinex/mantine-logo';
 import { useDisclosure } from '@mantine/hooks';
@@ -95,11 +96,14 @@ export function HeaderMegaMenu() {
     <Box pb={0}>
       <header className={classes.header}>
         <Group justify="space-between" h="100%">
-          <MantineLogo size={30} />
-
-          <Group h="100%" gap={0} visibleFrom="sm">
+          {/* <MantineLogo size={30} /> */}
+          <Group h="100%" gap={0} visibleFrom='sm'><img src="/logo.png" style={{ height: 60, width: 60 }} alt="" /><Text fw={800} size='18px'>SiteMap</Text></Group>
+          <Group h="100%" gap={0} visibleFrom='sm'>
             <Link href="/home" className={classes.link}>
               Home
+            </Link>
+            <Link href="/feedback" className={classes.link}>
+              Feedback
             </Link>
             {/* <HoverCard width={600} position="bottom" radius="md" shadow="md" withinPortal>
               <HoverCard.Target>
@@ -157,7 +161,7 @@ export function HeaderMegaMenu() {
           <Group visibleFrom="sm">
             <ActionToggle></ActionToggle>
             <Link className='nav-link' href='/login'><Button variant="default">Log in</Button></Link>
-            <Button>Sign up</Button>
+            <Link className='nav-link' href='/signup'><Button>Sign up</Button></Link>
           </Group>
 
           <Burger opened={drawerOpened} onClick={toggleDrawer} hiddenFrom="sm" />
@@ -176,8 +180,11 @@ export function HeaderMegaMenu() {
         <ScrollArea h={`calc(100vh - ${rem(80)})`} mx="-md">
           <Divider my="sm" />
 
-          <Link href="#" className={classes.link}>
+          <Link href="/home" className={classes.link}>
             Home
+          </Link>
+          <Link href="/feedback" className={classes.link}>
+            Feedback
           </Link>
           {/* <UnstyledButton className={classes.link} onClick={toggleLinks}>
             <Center inline>
@@ -191,17 +198,17 @@ export function HeaderMegaMenu() {
             </Center>
           </UnstyledButton>
           <Collapse in={linksOpened}>{links}</Collapse> */}
-          <Link href="#" className={classes.link}>
-            About Us
+          <Link href="/about" className={classes.link}>
+            About
           </Link>
           <Link href="/contact" className={classes.link}>
-            Contact Us
+            Contact
           </Link>
           <Divider my="sm" />
 
           <Group justify="center" grow pb="xl" px="md">
             <Link className='nav-link' href='/login'><Button variant="default">Log in</Button></Link>
-            <Button>Sign up</Button>
+            <Link className='nav-link' href='/signup'><Button>Sign up</Button></Link>
           </Group>
         </ScrollArea>
       </Drawer>

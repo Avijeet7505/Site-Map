@@ -1,9 +1,10 @@
 import React from 'react'
+import { AuthenticationTitle } from './AuthenticationTitle'
 
 const Signup = () => {
   return (
-    <div>Signup</div>
+    <div><AuthenticationTitle></AuthenticationTitle></div>
   )
 }
 
-export default Signup
+export default Signup;

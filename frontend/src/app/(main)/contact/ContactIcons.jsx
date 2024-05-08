@@ -27,9 +27,9 @@ function ContactIcon({ icon: Icon, title, description, ...others }) {
 }
 
 const MOCKDATA = [
-    { title: 'Email', description: 'hello@mantine.dev', icon: IconAt },
-    { title: 'Phone', description: '+49 (800) 335 35 35', icon: IconPhone },
-    { title: 'Address', description: '844 Morris Park avenue', icon: IconMapPin },
+    { title: 'Email', description: 'avijeet7505@gmail.com', icon: IconAt },
+    { title: 'Phone', description: '+917505201075', icon: IconPhone },
+    { title: 'Address', description: '844 Vikasnagar Lucknow ', icon: IconMapPin },
     { title: 'Working hours', description: '8 a.m. – 11 p.m.', icon: IconSun },
 ];
 
