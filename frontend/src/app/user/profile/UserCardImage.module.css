@@ -3,5 +3,5 @@
 }
 
 .avatar {
-    border: rem(2px) solid var(--mantine-color-body);
+    border: rem(4px) solid var(--mantine-color-body);
 }

@@ -6,8 +6,7 @@ import { ActionToggle } from './ActionToggle';
 
 
 export function CollapseDesktop() {
-    const [mobileOpened, { toggle: toggleMobile }] = useDisclosure();
-    const [desktopOpened, { toggle: toggleDesktop }] = useDisclosure(true);
+
 
 
     return (
@@ -19,35 +18,6 @@ export function CollapseDesktop() {
                 },
             }}
         >
-
-            <AppShell
-                header={{ height: 60 }}
-                navbar={{
-                    width: 300,
-                    breakpoint: 'sm',
-                    collapsed: { mobile: !mobileOpened, desktop: !desktopOpened },
-                }}
-                padding="md"
-            >
-                <AppShell.Header>
-                    <Group h="100%" px="md" bg={'#147885'}>
-                        <Burger opened={mobileOpened} onClick={toggleMobile} hiddenFrom="sm" size="lg" />
-                        <Burger opened={desktopOpened} onClick={toggleDesktop} visibleFrom="sm" size="lg" />
-                        <Group h="100%" gap={0} ><img src="/logo.png" style={{ height: 60, width: 60 }} alt="" /><Text fw={800} size='18px' >SiteMap</Text></Group>
-                        {/* <ActionToggle ></ActionToggle> */}
-                        {/* <MantineLogo size={30} /> */}
-                    </Group>
-                </AppShell.Header>
-                <AppShell.Navbar p="lg">
-                    User
-                    {Array(5)
-                        .fill(10)
-                        .map((_, index) => (
-                            <Skeleton key={index} h={50} mt="lg" animate={false} />
-                        ))}
-                </AppShell.Navbar>
-                <AppShell.Main>Main</AppShell.Main>
-            </AppShell>
         </MantineProvider >
     );
 }

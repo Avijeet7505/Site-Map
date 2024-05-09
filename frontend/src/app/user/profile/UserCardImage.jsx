@@ -1,6 +1,7 @@
 'use client'
 import { Card, Avatar, Text, Group, Button } from '@mantine/core';
 import classes from './UserCardImage.module.css';
+import Link from 'next/link';
 
 const stats = [
     { value: '34K', label: 'Followers' },
@@ -23,32 +24,35 @@ export function UserCardImage() {
     return (
         <Card withBorder padding="xl" radius="md" className={classes.card}>
             <Card.Section
-                h={140}
+                h={350}
                 style={{
+                    backgroundSize: 'cover',
                     backgroundImage:
                         'url(https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=80)',
                 }}
             />
             <Avatar
                 src="https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/avatars/avatar-9.png"
-                size={80}
+                size={200}
                 radius={80}
                 mx="auto"
-                mt={-30}
+                mt={-90}
                 className={classes.avatar}
             />
-            <Text ta="center" fz="lg" fw={500} mt="sm">
-                Bill Headbanger
+            <Text ta="center" fz="xl" fw={600} mt="md">
+                Anish Yadav
             </Text>
-            <Text ta="center" fz="sm" c="dimmed">
+            <Text ta="center" fz="lg" c="dimmed">
                 Fullstack engineer
             </Text>
-            <Group mt="md" justify="center" gap={30}>
+            <Group mt="xl" justify="center" gap={40}>
                 {items}
             </Group>
-            <Button fullWidth radius="md" mt="xl" size="md" variant="default">
-                Follow
-            </Button>
+            <Link href='./editprofile' style={{ textDecoration: 'none' }}>
+                <Button fullWidth radius="md" mt="xl" size="md" variant="default" bg='blue'>
+                    Edit Profile
+                </Button>
+            </Link>
         </Card>
     );
 }
