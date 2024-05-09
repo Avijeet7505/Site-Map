@@ -2,6 +2,7 @@
 import React, { useRef, useState } from 'react';
 import { TextInput, TextInputProps, ActionIcon, useMantineTheme, rem, Container, Text } from '@mantine/core';
 import { IconSearch, IconArrowRight } from '@tabler/icons-react';
+import toast from 'react-hot-toast';
 
 const SitemapGenerator = () => {
 
@@ -27,10 +28,10 @@ const SitemapGenerator = () => {
             .then((response) => {
                 console.log(response.status);
                 if (response.status === 200) {
-                    toast.success('User Registered Successfully');
+                    toast.success('Site-map Generation in Process');
                 }
                 else {
-                    toast.error('User Registration Failed');
+                    toast.error('Process  Failed! Try Again Later');
                 }
             }).catch((err) => {
                 console.log(err);

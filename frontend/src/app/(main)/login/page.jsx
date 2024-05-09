@@ -57,7 +57,7 @@ const AuthenticationForm = (props) => {
           response.json()
             .then((data) => {
               sessionStorage.setItem('user', JSON.stringify(data));
-              router.push('/about');
+              router.push('/user/user-home');
             })
 
         } else {
