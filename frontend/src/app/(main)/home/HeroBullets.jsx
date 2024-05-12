@@ -3,18 +3,18 @@ import { Image, Container, Title, Button, Group, Text, List, ThemeIcon, rem } fr
 import { IconCheck } from '@tabler/icons-react';
 // import image from '/image.svg';
 import classes from './HeroBullets.module.css';
+import Link from 'next/link';
 
 export function HeroBullets() {
     return (
-        <Container size="md">
+        <Container size="lg">
             <div className={classes.inner}>
                 <div className={classes.content}>
                     <Title className={classes.title}>
-                        A <span className={classes.highlight}>modern</span> React <br /> components library
+                        Generate <span className={classes.highlight}>visual sitemap</span> with meta tags and create sitemap XML for free
                     </Title>
                     <Text c="dimmed" mt="md">
-                        Build fully functional accessible web applications faster than ever – Mantine includes
-                        more than 120 customizable components and hooks to cover you in any situation
+                        We created a fast and very simple visual sitemap generator with meta tags to help you visualize website structure and create sitemap XML. Change and create sitemaps, improve UX Architecture and SEO
                     </Text>
 
                     <List
@@ -42,12 +42,13 @@ export function HeroBullets() {
                     </List>
 
                     <Group mt={30}>
-                        <Button radius="xl" size="md" className={classes.control}>
+                        <Link href='/login'><Button radius="xl" size="md" className={classes.control}>
                             Get started
                         </Button>
-                        <Button variant="default" radius="xl" size="md" className={classes.control}>
+                        </Link>
+                        {/* <Button variant="default" radius="xl" size="md" className={classes.control}>
                             Source code
-                        </Button>
+                        </Button> */}
                     </Group>
                 </div>
                 <Image src='/homeimage.svg' className={classes.image} />

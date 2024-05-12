@@ -61,9 +61,10 @@ export function FooterLinks() {
         <footer className={classes.footer}>
             <Container className={classes.inner}>
                 <div className={classes.logo}>
-                    <MantineLogo size={30} />
+                    {/* <MantineLogo size={30} /> */}
+                    <Group gap={0}><img src="/logo.png" style={{ height: 60, width: 60 }} alt="" /><Text fw={800} size='18px'>SiteMap</Text></Group>
                     <Text size="xs" c="dimmed" className={classes.description}>
-                        Build fully functional accessible web applications faster than ever
+                        Generate visual sitemap with meta tags and create sitemap XML for free
                     </Text>
                 </div>
                 <div className={classes.groups}>{groups}</div>
