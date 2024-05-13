@@ -64,7 +64,7 @@ export function NavbarSimple() {
                     <span>Change account</span>
                 </a>
 
-                <Link href="/home" className={classes.link}>
+                <Link href="/" className={classes.link}>
                     <IconLogout className={classes.linkIcon} stroke={1.5} />
                     <span>Logout</span>
                 </Link>

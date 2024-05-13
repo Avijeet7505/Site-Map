@@ -99,7 +99,7 @@ export function HeaderMegaMenu() {
           {/* <MantineLogo size={30} /> */}
           <Group h="100%" gap={0} visibleFrom='sm'><img src="/logo.png" style={{ height: 60, width: 60 }} alt="" /><Text fw={800} size='18px'>SiteMap</Text></Group>
           <Group h="100%" gap={0} visibleFrom='sm'>
-            <Link href="/home" className={classes.link}>
+            <Link href="/" className={classes.link}>
               Home
             </Link>
             <Link href="/feedback" className={classes.link}>
