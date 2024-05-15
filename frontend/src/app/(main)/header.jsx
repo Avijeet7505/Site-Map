@@ -180,7 +180,7 @@ export function HeaderMegaMenu() {
         <ScrollArea h={`calc(100vh - ${rem(80)})`} mx="-md">
           <Divider my="sm" />
 
-          <Link href="/home" className={classes.link}>
+          <Link href="/" className={classes.link}>
             Home
           </Link>
           <Link href="/feedback" className={classes.link}>

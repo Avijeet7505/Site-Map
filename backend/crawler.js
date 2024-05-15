@@ -92,11 +92,11 @@ async function crawl(url, browser, page, depth = 0) {
         page.img = item.img;
         page.children = item.children;
         // Fill in the children with details (if they already exist).
-        page.children.forEach(c => {
-            const item = crawledPages.get(c.url);
-            c.title = item ? item.title : '';
-            c.img = item ? item.img : null;
-        });
+        // page.children.forEach(c => {
+        //     const item = crawledPages.get(c.url);
+        //     c.title = item ? item.title : '';
+        //     c.img = item ? item.img : null;
+        // });
         return;
     } else {
         console.log(`Loading: ${page.url}`);
