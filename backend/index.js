@@ -19,6 +19,8 @@ app.use(express.json());   //parse incoming requests of content type - applicati
 app.use('/user', userRouter);
 app.use('/sitemap', sitemapRouter);
 
+app.use(express.static('./output'))
+
 app.listen(port, () => {
     console.log('server started!!');
 })
