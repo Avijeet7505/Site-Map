@@ -61,10 +61,10 @@ export function NavbarSimple() {
             </div>
 
             <div className={classes.footer}>
-                <a href="/login" className={classes.link} onClick={(event) => event.preventDefault()}>
+                <Link href="/login" className={classes.link}>
                     <IconSwitchHorizontal className={classes.linkIcon} stroke={1.5} />
                     <span>Change account</span>
-                </a>
+                </Link>
 
                 <Link href="/" className={classes.link}>
                     <IconLogout className={classes.linkIcon} stroke={1.5} />
