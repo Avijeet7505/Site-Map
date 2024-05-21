@@ -102,9 +102,9 @@ export function HeaderMegaMenu() {
             <Link href="/" className={classes.link}>
               Home
             </Link>
-            <Link href="/feedback" className={classes.link}>
+            {/* <Link href="/feedback" className={classes.link}>
               Feedback
-            </Link>
+            </Link> */}
             {/* <HoverCard width={600} position="bottom" radius="md" shadow="md" withinPortal>
               <HoverCard.Target>
                 <a href="#" className={classes.link}>
@@ -183,9 +183,9 @@ export function HeaderMegaMenu() {
           <Link href="/" className={classes.link}>
             Home
           </Link>
-          <Link href="/feedback" className={classes.link}>
+          {/* <Link href="/feedback" className={classes.link}>
             Feedback
-          </Link>
+          </Link> */}
           {/* <UnstyledButton className={classes.link} onClick={toggleLinks}>
             <Center inline>
               <Box component="span" mr={5}>

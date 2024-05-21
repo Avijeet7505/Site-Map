@@ -1,10 +1,10 @@
 'use client'
-import { Button, rem, Tooltip } from '@mantine/core';
+import { ActionIcon, Button, rem, Tooltip } from '@mantine/core';
 import { useClipboard } from '@mantine/hooks';
 import { IconCopy, IconCheck } from '@tabler/icons-react';
 import React, { useRef, useState } from 'react';
 
-export function ButtonCopy() {
+export function ButtonCopy({ text }) {
 
     const clipboard = useClipboard();
     return (
@@ -31,7 +31,7 @@ export function ButtonCopy() {
                     root: { paddingRight: rem(14), height: rem(40) },
                     section: { marginLeft: rem(22) },
                 }}
-                onClick={() => clipboard.copy()}
+                onClick={() => clipboard.copy(text)}
             >
                 Copy Code
             </Button>

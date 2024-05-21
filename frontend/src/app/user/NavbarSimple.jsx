@@ -11,6 +11,8 @@ import {
     IconClipboard,
     IconMap,
     IconUser,
+    IconSquareChevronsDownFilled,
+    IconSquareChevronsDown,
 } from '@tabler/icons-react';
 import { MantineLogo } from '@mantinex/mantine-logo';
 import classes from './NavbarSimple.module.css';
@@ -24,7 +26,7 @@ const data = [
     { link: 'profile', label: 'Profile', icon: IconUser },
     { link: 'sitemap-generater', label: 'Site-Map Generator', icon: IconMap },
     { link: '', label: 'Feedback', icon: IconClipboard },
-    { link: '', label: 'Other Settings', icon: IconSettings },
+    { link: 'saved-sitemap', label: 'Generated Site-map', icon: IconSquareChevronsDown },
 ];
 
 export function NavbarSimple() {

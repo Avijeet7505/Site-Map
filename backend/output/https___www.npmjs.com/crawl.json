@@ -1,0 +1,5997 @@
+{
+ "url": "https://www.npmjs.com",
+ "title": "npm | Home",
+ "children": [
+  {
+   "url": "https://www.npmjs.com/#main",
+   "title": "npm | Home",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/#search",
+     "title": "npm | Home",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/#main"
+      },
+      {
+       "url": "https://www.npmjs.com/#signin"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro"
+      },
+      {
+       "url": "https://www.npmjs.com/products/teams"
+      },
+      {
+       "url": "https://www.npmjs.com/products"
+      },
+      {
+       "url": "https://www.npmjs.com/"
+      },
+      {
+       "url": "https://www.npmjs.com/signup"
+      },
+      {
+       "url": "https://www.npmjs.com/login"
+      },
+      {
+       "url": "https://www.npmjs.com/support"
+      },
+      {
+       "url": "https://www.npmjs.com/about"
+      },
+      {
+       "url": "https://www.npmjs.com/press"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/privacy"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/#signin",
+     "title": "npm | Home",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/#main"
+      },
+      {
+       "url": "https://www.npmjs.com/#search"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro"
+      },
+      {
+       "url": "https://www.npmjs.com/products/teams"
+      },
+      {
+       "url": "https://www.npmjs.com/products"
+      },
+      {
+       "url": "https://www.npmjs.com/"
+      },
+      {
+       "url": "https://www.npmjs.com/signup"
+      },
+      {
+       "url": "https://www.npmjs.com/login"
+      },
+      {
+       "url": "https://www.npmjs.com/support"
+      },
+      {
+       "url": "https://www.npmjs.com/about"
+      },
+      {
+       "url": "https://www.npmjs.com/press"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/privacy"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro",
+     "title": "npm | Pro",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/products/pro#main"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro#search"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro#signin"
+      },
+      {
+       "url": "https://www.npmjs.com/products/teams"
+      },
+      {
+       "url": "https://www.npmjs.com/products"
+      },
+      {
+       "url": "https://www.npmjs.com/"
+      },
+      {
+       "url": "https://www.npmjs.com/signup"
+      },
+      {
+       "url": "https://www.npmjs.com/login"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro#get-started"
+      },
+      {
+       "url": "https://www.npmjs.com/settings/~/billing"
+      },
+      {
+       "url": "https://www.npmjs.com/support"
+      },
+      {
+       "url": "https://www.npmjs.com/about"
+      },
+      {
+       "url": "https://www.npmjs.com/press"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/privacy"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/products/teams",
+     "title": "npm | Teams",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/products/teams#main"
+      },
+      {
+       "url": "https://www.npmjs.com/products/teams#search"
+      },
+      {
+       "url": "https://www.npmjs.com/products/teams#signin"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro"
+      },
+      {
+       "url": "https://www.npmjs.com/products"
+      },
+      {
+       "url": "https://www.npmjs.com/"
+      },
+      {
+       "url": "https://www.npmjs.com/signup"
+      },
+      {
+       "url": "https://www.npmjs.com/login"
+      },
+      {
+       "url": "https://www.npmjs.com/org/create"
+      },
+      {
+       "url": "https://www.npmjs.com/support"
+      },
+      {
+       "url": "https://www.npmjs.com/about"
+      },
+      {
+       "url": "https://www.npmjs.com/press"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/privacy"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/products",
+     "title": "npm | Products",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/products#main"
+      },
+      {
+       "url": "https://www.npmjs.com/products#search"
+      },
+      {
+       "url": "https://www.npmjs.com/products#signin"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro"
+      },
+      {
+       "url": "https://www.npmjs.com/products/teams"
+      },
+      {
+       "url": "https://www.npmjs.com/"
+      },
+      {
+       "url": "https://www.npmjs.com/signup"
+      },
+      {
+       "url": "https://www.npmjs.com/login"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro#get-started"
+      },
+      {
+       "url": "https://www.npmjs.com/org/create"
+      },
+      {
+       "url": "https://www.npmjs.com/support"
+      },
+      {
+       "url": "https://www.npmjs.com/about"
+      },
+      {
+       "url": "https://www.npmjs.com/press"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/privacy"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/",
+     "title": "npm | Home",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/#main"
+      },
+      {
+       "url": "https://www.npmjs.com/#search"
+      },
+      {
+       "url": "https://www.npmjs.com/#signin"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro"
+      },
+      {
+       "url": "https://www.npmjs.com/products/teams"
+      },
+      {
+       "url": "https://www.npmjs.com/products"
+      },
+      {
+       "url": "https://www.npmjs.com/signup"
+      },
+      {
+       "url": "https://www.npmjs.com/login"
+      },
+      {
+       "url": "https://www.npmjs.com/support"
+      },
+      {
+       "url": "https://www.npmjs.com/about"
+      },
+      {
+       "url": "https://www.npmjs.com/press"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/privacy"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/signup",
+     "title": "npm | Sign Up",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/privacy"
+      },
+      {
+       "url": "https://www.npmjs.com/login/"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/login",
+     "title": "npm | Sign In",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/"
+      },
+      {
+       "url": "https://www.npmjs.com/forgot"
+      },
+      {
+       "url": "https://www.npmjs.com/signup"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/support",
+     "title": "npm | Support",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/support#main"
+      },
+      {
+       "url": "https://www.npmjs.com/support#search"
+      },
+      {
+       "url": "https://www.npmjs.com/support#signin"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro"
+      },
+      {
+       "url": "https://www.npmjs.com/products/teams"
+      },
+      {
+       "url": "https://www.npmjs.com/products"
+      },
+      {
+       "url": "https://www.npmjs.com/"
+      },
+      {
+       "url": "https://www.npmjs.com/signup"
+      },
+      {
+       "url": "https://www.npmjs.com/login"
+      },
+      {
+       "url": "https://www.npmjs.com/login?next=/support"
+      },
+      {
+       "url": "https://www.npmjs.com/support?inquire=account"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/dmca"
+      },
+      {
+       "url": "https://www.npmjs.com/support?inquire=naming-dispute"
+      },
+      {
+       "url": "https://www.npmjs.com/support?inquire=security"
+      },
+      {
+       "url": "https://www.npmjs.com/about"
+      },
+      {
+       "url": "https://www.npmjs.com/press"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/privacy"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/about",
+     "title": "npm About",
+     "children": [
+      {
+       "url": "https://www.npmjs.com/about#main"
+      },
+      {
+       "url": "https://www.npmjs.com/about#search"
+      },
+      {
+       "url": "https://www.npmjs.com/about#signin"
+      },
+      {
+       "url": "https://www.npmjs.com/products/pro"
+      },
+      {
+       "url": "https://www.npmjs.com/products/teams"
+      },
+      {
+       "url": "https://www.npmjs.com/products"
+      },
+      {
+       "url": "https://www.npmjs.com/"
+      },
+      {
+       "url": "https://www.npmjs.com/signup"
+      },
+      {
+       "url": "https://www.npmjs.com/login"
+      },
+      {
+       "url": "https://www.npmjs.com/support"
+      },
+      {
+       "url": "https://www.npmjs.com/press"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://www.npmjs.com/policies/privacy"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/press",
+     "title": "Press · GitHub",
+     "children": [
+      {
+       "url": "https://github.com/about/press#start-of-content"
+      },
+      {
+       "url": "https://github.com/"
+      },
+      {
+       "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fabout%2Fpress"
+      },
+      {
+       "url": "https://github.com/features/actions"
+      },
+      {
+       "url": "https://github.com/features/packages"
+      },
+      {
+       "url": "https://github.com/features/security"
+      },
+      {
+       "url": "https://github.com/features/codespaces"
+      },
+      {
+       "url": "https://github.com/features/copilot"
+      },
+      {
+       "url": "https://github.com/features/code-review"
+      },
+      {
+       "url": "https://github.com/features/issues"
+      },
+      {
+       "url": "https://github.com/features/discussions"
+      },
+      {
+       "url": "https://github.com/features"
+      },
+      {
+       "url": "https://github.com/enterprise"
+      },
+      {
+       "url": "https://github.com/team"
+      },
+      {
+       "url": "https://github.com/enterprise/startups"
+      },
+      {
+       "url": "https://github.com/solutions/ci-cd"
+      },
+      {
+       "url": "https://github.com/solutions/devops"
+      },
+      {
+       "url": "https://github.com/customer-stories"
+      },
+      {
+       "url": "https://github.com/sponsors"
+      },
+      {
+       "url": "https://github.com/readme"
+      },
+      {
+       "url": "https://github.com/topics"
+      },
+      {
+       "url": "https://github.com/trending"
+      },
+      {
+       "url": "https://github.com/collections"
+      },
+      {
+       "url": "https://github.com/pricing"
+      },
+      {
+       "url": "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Fabout%2Fpress&source=header"
+      },
+      {
+       "url": "https://github.com/about"
+      },
+      {
+       "url": "https://github.com/logos"
+      },
+      {
+       "url": "https://github.com/about/press?page=2"
+      },
+      {
+       "url": "https://github.com/about/press?page=3"
+      },
+      {
+       "url": "https://github.com/about/press?page=4"
+      },
+      {
+       "url": "https://github.com/about/press?page=5"
+      },
+      {
+       "url": "https://github.com/about/press?page=52"
+      },
+      {
+       "url": "https://github.com/about/press?page=53"
+      },
+      {
+       "url": "https://github.com/security"
+      },
+      {
+       "url": "https://github.com/github/roadmap"
+      },
+      {
+       "url": "https://github.com/premium-support"
+      },
+      {
+       "url": "https://github.com/customer-stories?type=enterprise"
+      },
+      {
+       "url": "https://github.com/about/diversity"
+      },
+      {
+       "url": "https://github.com/github/site-policy/pull/582"
+      },
+      {
+       "url": "https://github.com/sitemap"
+      },
+      {
+       "url": "https://github.com/git-guides"
+      },
+      {
+       "url": "https://github.com/github"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/policies/",
+     "title": "Policies | npm Docs",
+     "children": [
+      {
+       "url": "https://docs.npmjs.com/policies#search-box-input"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies#skip-to-content"
+      },
+      {
+       "url": "https://docs.npmjs.com/"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-new-npm-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-strong-password"
+      },
+      {
+       "url": "https://docs.npmjs.com/receiving-a-one-time-password-over-email"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-two-factor-authentication"
+      },
+      {
+       "url": "https://docs.npmjs.com/configuring-two-factor-authentication"
+      },
+      {
+       "url": "https://docs.npmjs.com/accessing-npm-using-2fa"
+      },
+      {
+       "url": "https://docs.npmjs.com/recovering-your-2fa-enabled-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-your-profile-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/changing-your-npm-username"
+      },
+      {
+       "url": "https://docs.npmjs.com/deleting-your-npm-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/requesting-your-data"
+      },
+      {
+       "url": "https://docs.npmjs.com/upgrading-to-a-paid-user-account-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-user-account-billing-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/downgrading-to-a-free-user-account-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-npm-versions"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/generating-and-locating-npm-debug.log-files"
+      },
+      {
+       "url": "https://docs.npmjs.com/common-errors"
+      },
+      {
+       "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-node"
+      },
+      {
+       "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-the-public-npm-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-packages-and-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-scopes"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-private-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/package-scope-access-level-and-visibility"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-package-json-file"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-node-js-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-package-readme-files"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-scoped-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-private-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/package-name-guidelines"
+      },
+      {
+       "url": "https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-semantic-versioning"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-dist-tags-to-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/changing-package-visibility"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-collaborators-to-private-packages-owned-by-a-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-your-published-package-version-number"
+      },
+      {
+       "url": "https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions"
+      },
+      {
+       "url": "https://docs.npmjs.com/transferring-a-package-from-a-user-account-to-another-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/unpublishing-packages-from-the-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/searching-for-and-choosing-packages-to-download"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-packages-locally"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-packages-globally"
+      },
+      {
+       "url": "https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-packages-downloaded-from-the-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-npm-packages-in-your-projects"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-deprecated-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/uninstalling-packages-and-dependencies"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-audit-reports"
+      },
+      {
+       "url": "https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities"
+      },
+      {
+       "url": "https://docs.npmjs.com/generating-provenance-statements"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-registry-signatures"
+      },
+      {
+       "url": "https://docs.npmjs.com/verifying-registry-signatures"
+      },
+      {
+       "url": "https://docs.npmjs.com/requiring-2fa-for-package-publishing-and-settings-modification"
+      },
+      {
+       "url": "https://docs.npmjs.com/reporting-malware-in-an-npm-package"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-viewing-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/revoking-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-private-packages-in-a-ci-cd-workflow"
+      },
+      {
+       "url": "https://docs.npmjs.com/docker-and-private-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/converting-your-user-account-to-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/requiring-two-factor-authentication-in-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/renaming-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/deleting-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/upgrading-to-a-paid-organization-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-organization-billing-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/downgrading-to-a-free-organization-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-members-to-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/accepting-or-rejecting-an-organization-invitation"
+      },
+      {
+       "url": "https://docs.npmjs.com/organization-roles-and-permissions"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-organization-permissions"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-members-from-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-developers-team"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-organization-members-to-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-organization-members-from-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-team-access-to-organization-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-organization-scopes-and-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/configuring-your-npm-client-with-your-organization-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/open-source-terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/private-terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/disputes"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/npm-license"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/unpublish"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/dmca"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/logos-and-usage"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/security"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/crawlers"
+      },
+      {
+       "url": "https://docs.npmjs.com/threats-and-mitigations"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-access"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-adduser"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-audit"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-bugs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-cache"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ci"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-completion"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-config"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-dedupe"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-deprecate"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-diff"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-dist-tag"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-docs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-doctor"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-edit"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-exec"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-explain"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-explore"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-find-dupes"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-fund"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-help"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-help-search"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-hook"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-init"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-ci-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-link"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-login"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-logout"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ls"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-org"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-outdated"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-owner"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-pack"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ping"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-pkg"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-prefix"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-profile"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-prune"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-publish"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-query"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-rebuild"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-repo"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-restart"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-root"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-run-script"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-sbom"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-search"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-shrinkwrap"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-star"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-stars"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-start"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-stop"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-team"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-token"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-uninstall"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-unpublish"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-unstar"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-update"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-version"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-view"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-whoami"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npx"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/install"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/folders"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npmrc"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npm-shrinkwrap-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/package-spec"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/config"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/logging"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/scope"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/scripts"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/workspaces"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/orgs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/dependency-selectors"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/developers"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/removal"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/changelog"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/policies/terms",
+     "title": "Terms and Licenses | npm Docs",
+     "children": [
+      {
+       "url": "https://docs.npmjs.com/policies/terms#search-box-input"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/terms#skip-to-content"
+      },
+      {
+       "url": "https://docs.npmjs.com/"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-new-npm-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-strong-password"
+      },
+      {
+       "url": "https://docs.npmjs.com/receiving-a-one-time-password-over-email"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-two-factor-authentication"
+      },
+      {
+       "url": "https://docs.npmjs.com/configuring-two-factor-authentication"
+      },
+      {
+       "url": "https://docs.npmjs.com/accessing-npm-using-2fa"
+      },
+      {
+       "url": "https://docs.npmjs.com/recovering-your-2fa-enabled-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-your-profile-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/changing-your-npm-username"
+      },
+      {
+       "url": "https://docs.npmjs.com/deleting-your-npm-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/requesting-your-data"
+      },
+      {
+       "url": "https://docs.npmjs.com/upgrading-to-a-paid-user-account-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-user-account-billing-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/downgrading-to-a-free-user-account-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-npm-versions"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/generating-and-locating-npm-debug.log-files"
+      },
+      {
+       "url": "https://docs.npmjs.com/common-errors"
+      },
+      {
+       "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-node"
+      },
+      {
+       "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-the-public-npm-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-packages-and-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-scopes"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-private-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/package-scope-access-level-and-visibility"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-package-json-file"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-node-js-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-package-readme-files"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-scoped-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-private-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/package-name-guidelines"
+      },
+      {
+       "url": "https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-semantic-versioning"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-dist-tags-to-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/changing-package-visibility"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-collaborators-to-private-packages-owned-by-a-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-your-published-package-version-number"
+      },
+      {
+       "url": "https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions"
+      },
+      {
+       "url": "https://docs.npmjs.com/transferring-a-package-from-a-user-account-to-another-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/unpublishing-packages-from-the-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/searching-for-and-choosing-packages-to-download"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-packages-locally"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-packages-globally"
+      },
+      {
+       "url": "https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-packages-downloaded-from-the-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-npm-packages-in-your-projects"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-deprecated-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/uninstalling-packages-and-dependencies"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-audit-reports"
+      },
+      {
+       "url": "https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities"
+      },
+      {
+       "url": "https://docs.npmjs.com/generating-provenance-statements"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-registry-signatures"
+      },
+      {
+       "url": "https://docs.npmjs.com/verifying-registry-signatures"
+      },
+      {
+       "url": "https://docs.npmjs.com/requiring-2fa-for-package-publishing-and-settings-modification"
+      },
+      {
+       "url": "https://docs.npmjs.com/reporting-malware-in-an-npm-package"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-viewing-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/revoking-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-private-packages-in-a-ci-cd-workflow"
+      },
+      {
+       "url": "https://docs.npmjs.com/docker-and-private-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/converting-your-user-account-to-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/requiring-two-factor-authentication-in-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/renaming-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/deleting-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/upgrading-to-a-paid-organization-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-organization-billing-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/downgrading-to-a-free-organization-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-members-to-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/accepting-or-rejecting-an-organization-invitation"
+      },
+      {
+       "url": "https://docs.npmjs.com/organization-roles-and-permissions"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-organization-permissions"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-members-from-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-developers-team"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-organization-members-to-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-organization-members-from-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-team-access-to-organization-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-organization-scopes-and-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/configuring-your-npm-client-with-your-organization-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/open-source-terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/private-terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/disputes"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/npm-license"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/unpublish"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/dmca"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/logos-and-usage"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/security"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/crawlers"
+      },
+      {
+       "url": "https://docs.npmjs.com/threats-and-mitigations"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-access"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-adduser"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-audit"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-bugs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-cache"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ci"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-completion"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-config"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-dedupe"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-deprecate"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-diff"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-dist-tag"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-docs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-doctor"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-edit"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-exec"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-explain"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-explore"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-find-dupes"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-fund"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-help"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-help-search"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-hook"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-init"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-ci-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-link"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-login"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-logout"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ls"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-org"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-outdated"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-owner"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-pack"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ping"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-pkg"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-prefix"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-profile"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-prune"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-publish"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-query"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-rebuild"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-repo"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-restart"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-root"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-run-script"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-sbom"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-search"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-shrinkwrap"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-star"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-stars"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-start"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-stop"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-team"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-token"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-uninstall"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-unpublish"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-unstar"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-update"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-version"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-view"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-whoami"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npx"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/install"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/folders"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npmrc"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npm-shrinkwrap-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/package-spec"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/config"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/logging"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/scope"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/scripts"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/workspaces"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/orgs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/dependency-selectors"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/developers"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/removal"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/changelog"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/terms#software-from-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/terms#free-to-use-npm-services"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/terms#paid-npm-services"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/open-source-terms#acceptable-use"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/trademark"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/disputes#trademarks"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/solo-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/orgs-plan"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/policies/conduct",
+     "title": "npm Code of Conduct | npm Docs",
+     "children": [
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#search-box-input"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#skip-to-content"
+      },
+      {
+       "url": "https://docs.npmjs.com/"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-new-npm-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-strong-password"
+      },
+      {
+       "url": "https://docs.npmjs.com/receiving-a-one-time-password-over-email"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-two-factor-authentication"
+      },
+      {
+       "url": "https://docs.npmjs.com/configuring-two-factor-authentication"
+      },
+      {
+       "url": "https://docs.npmjs.com/accessing-npm-using-2fa"
+      },
+      {
+       "url": "https://docs.npmjs.com/recovering-your-2fa-enabled-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-your-profile-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/changing-your-npm-username"
+      },
+      {
+       "url": "https://docs.npmjs.com/deleting-your-npm-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/requesting-your-data"
+      },
+      {
+       "url": "https://docs.npmjs.com/upgrading-to-a-paid-user-account-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-user-account-billing-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/downgrading-to-a-free-user-account-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-npm-versions"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/generating-and-locating-npm-debug.log-files"
+      },
+      {
+       "url": "https://docs.npmjs.com/common-errors"
+      },
+      {
+       "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-node"
+      },
+      {
+       "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-the-public-npm-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-packages-and-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-scopes"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-private-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/package-scope-access-level-and-visibility"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-package-json-file"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-node-js-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-package-readme-files"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-scoped-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-private-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/package-name-guidelines"
+      },
+      {
+       "url": "https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-semantic-versioning"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-dist-tags-to-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/changing-package-visibility"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-collaborators-to-private-packages-owned-by-a-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-your-published-package-version-number"
+      },
+      {
+       "url": "https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions"
+      },
+      {
+       "url": "https://docs.npmjs.com/transferring-a-package-from-a-user-account-to-another-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/unpublishing-packages-from-the-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/searching-for-and-choosing-packages-to-download"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-packages-locally"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-packages-globally"
+      },
+      {
+       "url": "https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-packages-downloaded-from-the-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-npm-packages-in-your-projects"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-deprecated-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/uninstalling-packages-and-dependencies"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-audit-reports"
+      },
+      {
+       "url": "https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities"
+      },
+      {
+       "url": "https://docs.npmjs.com/generating-provenance-statements"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-registry-signatures"
+      },
+      {
+       "url": "https://docs.npmjs.com/verifying-registry-signatures"
+      },
+      {
+       "url": "https://docs.npmjs.com/requiring-2fa-for-package-publishing-and-settings-modification"
+      },
+      {
+       "url": "https://docs.npmjs.com/reporting-malware-in-an-npm-package"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-viewing-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/revoking-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-private-packages-in-a-ci-cd-workflow"
+      },
+      {
+       "url": "https://docs.npmjs.com/docker-and-private-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/converting-your-user-account-to-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/requiring-two-factor-authentication-in-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/renaming-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/deleting-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/upgrading-to-a-paid-organization-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-organization-billing-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/downgrading-to-a-free-organization-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-members-to-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/accepting-or-rejecting-an-organization-invitation"
+      },
+      {
+       "url": "https://docs.npmjs.com/organization-roles-and-permissions"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-organization-permissions"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-members-from-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-developers-team"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-organization-members-to-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-organization-members-from-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-team-access-to-organization-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-organization-scopes-and-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/configuring-your-npm-client-with-your-organization-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/open-source-terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/private-terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/disputes"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/npm-license"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/unpublish"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/dmca"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/logos-and-usage"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/security"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/crawlers"
+      },
+      {
+       "url": "https://docs.npmjs.com/threats-and-mitigations"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-access"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-adduser"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-audit"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-bugs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-cache"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ci"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-completion"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-config"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-dedupe"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-deprecate"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-diff"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-dist-tag"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-docs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-doctor"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-edit"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-exec"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-explain"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-explore"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-find-dupes"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-fund"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-help"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-help-search"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-hook"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-init"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-ci-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-link"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-login"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-logout"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ls"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-org"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-outdated"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-owner"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-pack"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ping"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-pkg"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-prefix"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-profile"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-prune"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-publish"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-query"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-rebuild"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-repo"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-restart"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-root"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-run-script"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-sbom"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-search"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-shrinkwrap"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-star"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-stars"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-start"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-stop"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-team"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-token"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-uninstall"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-unpublish"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-unstar"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-update"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-version"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-view"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-whoami"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npx"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/install"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/folders"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npmrc"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npm-shrinkwrap-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/package-spec"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/config"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/logging"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/scope"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/scripts"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/workspaces"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/orgs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/dependency-selectors"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/developers"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/removal"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/changelog"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#tldr"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#scope"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#friendly-harassment-free-space"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#acceptable-use"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#reporting-violations-of-this-code-of-conduct"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#consequences"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#appeal-and-reinstatement"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#contact-info"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#changes"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct#credit-and-license"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/open-source-terms#acceptable-use"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/open-source-terms#acceptable-content"
+      }
+     ]
+    },
+    {
+     "url": "https://www.npmjs.com/policies/privacy",
+     "title": "Privacy Questions and Answers | npm Docs",
+     "children": [
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#search-box-input"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#skip-to-content"
+      },
+      {
+       "url": "https://docs.npmjs.com/"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-new-npm-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-strong-password"
+      },
+      {
+       "url": "https://docs.npmjs.com/receiving-a-one-time-password-over-email"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-two-factor-authentication"
+      },
+      {
+       "url": "https://docs.npmjs.com/configuring-two-factor-authentication"
+      },
+      {
+       "url": "https://docs.npmjs.com/accessing-npm-using-2fa"
+      },
+      {
+       "url": "https://docs.npmjs.com/recovering-your-2fa-enabled-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-your-profile-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/changing-your-npm-username"
+      },
+      {
+       "url": "https://docs.npmjs.com/deleting-your-npm-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/requesting-your-data"
+      },
+      {
+       "url": "https://docs.npmjs.com/upgrading-to-a-paid-user-account-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-user-account-billing-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/downgrading-to-a-free-user-account-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-npm-versions"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/generating-and-locating-npm-debug.log-files"
+      },
+      {
+       "url": "https://docs.npmjs.com/common-errors"
+      },
+      {
+       "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-node"
+      },
+      {
+       "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-the-public-npm-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-packages-and-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-scopes"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-private-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/package-scope-access-level-and-visibility"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-a-package-json-file"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-node-js-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-package-readme-files"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-scoped-public-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-private-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/package-name-guidelines"
+      },
+      {
+       "url": "https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-semantic-versioning"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-dist-tags-to-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/changing-package-visibility"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-collaborators-to-private-packages-owned-by-a-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-your-published-package-version-number"
+      },
+      {
+       "url": "https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions"
+      },
+      {
+       "url": "https://docs.npmjs.com/transferring-a-package-from-a-user-account-to-another-user-account"
+      },
+      {
+       "url": "https://docs.npmjs.com/unpublishing-packages-from-the-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/searching-for-and-choosing-packages-to-download"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-packages-locally"
+      },
+      {
+       "url": "https://docs.npmjs.com/downloading-and-installing-packages-globally"
+      },
+      {
+       "url": "https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-packages-downloaded-from-the-registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-npm-packages-in-your-projects"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-deprecated-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/uninstalling-packages-and-dependencies"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-audit-reports"
+      },
+      {
+       "url": "https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities"
+      },
+      {
+       "url": "https://docs.npmjs.com/generating-provenance-statements"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-registry-signatures"
+      },
+      {
+       "url": "https://docs.npmjs.com/verifying-registry-signatures"
+      },
+      {
+       "url": "https://docs.npmjs.com/requiring-2fa-for-package-publishing-and-settings-modification"
+      },
+      {
+       "url": "https://docs.npmjs.com/reporting-malware-in-an-npm-package"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-viewing-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/revoking-access-tokens"
+      },
+      {
+       "url": "https://docs.npmjs.com/using-private-packages-in-a-ci-cd-workflow"
+      },
+      {
+       "url": "https://docs.npmjs.com/docker-and-private-modules"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/converting-your-user-account-to-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/requiring-two-factor-authentication-in-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/renaming-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/deleting-an-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/upgrading-to-a-paid-organization-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/updating-organization-billing-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/downgrading-to-a-free-organization-plan"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-members-to-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/accepting-or-rejecting-an-organization-invitation"
+      },
+      {
+       "url": "https://docs.npmjs.com/organization-roles-and-permissions"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-organization-permissions"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-members-from-your-organization"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-developers-team"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/adding-organization-members-to-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-organization-members-from-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/managing-team-access-to-organization-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/removing-teams"
+      },
+      {
+       "url": "https://docs.npmjs.com/about-organization-scopes-and-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/configuring-your-npm-client-with-your-organization-settings"
+      },
+      {
+       "url": "https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/open-source-terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/private-terms"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/conduct"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/disputes"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/npm-license"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/unpublish"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/dmca"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/logos-and-usage"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/security"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/crawlers"
+      },
+      {
+       "url": "https://docs.npmjs.com/threats-and-mitigations"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-access"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-adduser"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-audit"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-bugs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-cache"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ci"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-completion"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-config"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-dedupe"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-deprecate"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-diff"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-dist-tag"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-docs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-doctor"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-edit"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-exec"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-explain"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-explore"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-find-dupes"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-fund"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-help"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-help-search"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-hook"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-init"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-ci-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-link"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-login"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-logout"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ls"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-org"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-outdated"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-owner"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-pack"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-ping"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-pkg"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-prefix"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-profile"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-prune"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-publish"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-query"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-rebuild"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-repo"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-restart"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-root"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-run-script"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-sbom"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-search"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-shrinkwrap"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-star"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-stars"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-start"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-stop"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-team"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-test"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-token"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-uninstall"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-unpublish"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-unstar"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-update"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-version"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-view"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npm-whoami"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/commands/npx"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/install"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/folders"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npmrc"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npm-shrinkwrap-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/registry"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/package-spec"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/config"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/logging"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/scope"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/scripts"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/workspaces"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/orgs"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/dependency-selectors"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/developers"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/removal"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/v10/using-npm/changelog"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#whats-most-important"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#how-does-npm-collect-data-about-me"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#what-data-does-npm-collect-about-me-and-why"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#npm-collects-data-about-how-you-use-npm-software-and-registries"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#npm-collects-data-about-how-you-use-the-website"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#npm-collects-account-data"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#npm-collects-package-data"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#npm-collects-payment-card-data"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#npm-collects-data-about-correspondence"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#npm-collects-data-about-use-of-npmcommunity"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#does-npm-share-data-about-me-with-others"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#npm-uses-cookies"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#how-can-i-make-choices-about-data-collection"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#where-does-npm-keep-data-about-me"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#how-does-npm-handle-data-under-the-eu-general-data-protection-regulation"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#how-does-npm-handle-data-under-the-california-consumer-privacy-act"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#how-can-i-see-what-data-is-publicly-available-about-me"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#how-can-i-change-data-about-me"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#what-is-npms-policy-on-unpublishing-packages"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#how-does-npm-notify-others-about-published-data-thats-erased"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#what-happens-if-npm-merges-with-or-is-bought-by-another-company"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#what-are-npms-information-practices-regarding-information-belonging-to-children"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#who-can-i-contact-about-npm-and-my-privacy"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/privacy#how-can-i-find-out-about-changes"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/commands/npx"
+      },
+      {
+       "url": "https://docs.npmjs.com/cli/audit"
+      },
+      {
+       "url": "https://docs.npmjs.com/files/package.json#files"
+      },
+      {
+       "url": "https://docs.npmjs.com/policies/open-source-terms#your-content"
+      },
+      {
+       "url": "https://docs.npmjs.com/files/package.json#license"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/#search",
+   "title": "npm | Home",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/#main"
+    },
+    {
+     "url": "https://www.npmjs.com/#signin"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro"
+    },
+    {
+     "url": "https://www.npmjs.com/products/teams"
+    },
+    {
+     "url": "https://www.npmjs.com/products"
+    },
+    {
+     "url": "https://www.npmjs.com/"
+    },
+    {
+     "url": "https://www.npmjs.com/signup"
+    },
+    {
+     "url": "https://www.npmjs.com/login"
+    },
+    {
+     "url": "https://www.npmjs.com/support"
+    },
+    {
+     "url": "https://www.npmjs.com/about"
+    },
+    {
+     "url": "https://www.npmjs.com/press"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/privacy"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/#signin",
+   "title": "npm | Home",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/#main"
+    },
+    {
+     "url": "https://www.npmjs.com/#search"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro"
+    },
+    {
+     "url": "https://www.npmjs.com/products/teams"
+    },
+    {
+     "url": "https://www.npmjs.com/products"
+    },
+    {
+     "url": "https://www.npmjs.com/"
+    },
+    {
+     "url": "https://www.npmjs.com/signup"
+    },
+    {
+     "url": "https://www.npmjs.com/login"
+    },
+    {
+     "url": "https://www.npmjs.com/support"
+    },
+    {
+     "url": "https://www.npmjs.com/about"
+    },
+    {
+     "url": "https://www.npmjs.com/press"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/privacy"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/products/pro",
+   "title": "npm | Pro",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/products/pro#main"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro#search"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro#signin"
+    },
+    {
+     "url": "https://www.npmjs.com/products/teams"
+    },
+    {
+     "url": "https://www.npmjs.com/products"
+    },
+    {
+     "url": "https://www.npmjs.com/"
+    },
+    {
+     "url": "https://www.npmjs.com/signup"
+    },
+    {
+     "url": "https://www.npmjs.com/login"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro#get-started"
+    },
+    {
+     "url": "https://www.npmjs.com/settings/~/billing"
+    },
+    {
+     "url": "https://www.npmjs.com/support"
+    },
+    {
+     "url": "https://www.npmjs.com/about"
+    },
+    {
+     "url": "https://www.npmjs.com/press"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/privacy"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/products/teams",
+   "title": "npm | Teams",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/products/teams#main"
+    },
+    {
+     "url": "https://www.npmjs.com/products/teams#search"
+    },
+    {
+     "url": "https://www.npmjs.com/products/teams#signin"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro"
+    },
+    {
+     "url": "https://www.npmjs.com/products"
+    },
+    {
+     "url": "https://www.npmjs.com/"
+    },
+    {
+     "url": "https://www.npmjs.com/signup"
+    },
+    {
+     "url": "https://www.npmjs.com/login"
+    },
+    {
+     "url": "https://www.npmjs.com/org/create"
+    },
+    {
+     "url": "https://www.npmjs.com/support"
+    },
+    {
+     "url": "https://www.npmjs.com/about"
+    },
+    {
+     "url": "https://www.npmjs.com/press"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/privacy"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/products",
+   "title": "npm | Products",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/products#main"
+    },
+    {
+     "url": "https://www.npmjs.com/products#search"
+    },
+    {
+     "url": "https://www.npmjs.com/products#signin"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro"
+    },
+    {
+     "url": "https://www.npmjs.com/products/teams"
+    },
+    {
+     "url": "https://www.npmjs.com/"
+    },
+    {
+     "url": "https://www.npmjs.com/signup"
+    },
+    {
+     "url": "https://www.npmjs.com/login"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro#get-started"
+    },
+    {
+     "url": "https://www.npmjs.com/org/create"
+    },
+    {
+     "url": "https://www.npmjs.com/support"
+    },
+    {
+     "url": "https://www.npmjs.com/about"
+    },
+    {
+     "url": "https://www.npmjs.com/press"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/privacy"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/signup",
+   "title": "npm | Sign Up",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/privacy"
+    },
+    {
+     "url": "https://www.npmjs.com/login/"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/login",
+   "title": "npm | Sign In",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/"
+    },
+    {
+     "url": "https://www.npmjs.com/forgot"
+    },
+    {
+     "url": "https://www.npmjs.com/signup"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/support",
+   "title": "npm | Support",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/support#main"
+    },
+    {
+     "url": "https://www.npmjs.com/support#search"
+    },
+    {
+     "url": "https://www.npmjs.com/support#signin"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro"
+    },
+    {
+     "url": "https://www.npmjs.com/products/teams"
+    },
+    {
+     "url": "https://www.npmjs.com/products"
+    },
+    {
+     "url": "https://www.npmjs.com/"
+    },
+    {
+     "url": "https://www.npmjs.com/signup"
+    },
+    {
+     "url": "https://www.npmjs.com/login"
+    },
+    {
+     "url": "https://www.npmjs.com/login?next=/support"
+    },
+    {
+     "url": "https://www.npmjs.com/support?inquire=account"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/dmca"
+    },
+    {
+     "url": "https://www.npmjs.com/support?inquire=naming-dispute"
+    },
+    {
+     "url": "https://www.npmjs.com/support?inquire=security"
+    },
+    {
+     "url": "https://www.npmjs.com/about"
+    },
+    {
+     "url": "https://www.npmjs.com/press"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/privacy"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/about",
+   "title": "npm About",
+   "children": [
+    {
+     "url": "https://www.npmjs.com/about#main"
+    },
+    {
+     "url": "https://www.npmjs.com/about#search"
+    },
+    {
+     "url": "https://www.npmjs.com/about#signin"
+    },
+    {
+     "url": "https://www.npmjs.com/products/pro"
+    },
+    {
+     "url": "https://www.npmjs.com/products/teams"
+    },
+    {
+     "url": "https://www.npmjs.com/products"
+    },
+    {
+     "url": "https://www.npmjs.com/"
+    },
+    {
+     "url": "https://www.npmjs.com/signup"
+    },
+    {
+     "url": "https://www.npmjs.com/login"
+    },
+    {
+     "url": "https://www.npmjs.com/support"
+    },
+    {
+     "url": "https://www.npmjs.com/press"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://www.npmjs.com/policies/privacy"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/press",
+   "title": "Press · GitHub",
+   "children": [
+    {
+     "url": "https://github.com/about/press#start-of-content"
+    },
+    {
+     "url": "https://github.com/"
+    },
+    {
+     "url": "https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fabout%2Fpress"
+    },
+    {
+     "url": "https://github.com/features/actions"
+    },
+    {
+     "url": "https://github.com/features/packages"
+    },
+    {
+     "url": "https://github.com/features/security"
+    },
+    {
+     "url": "https://github.com/features/codespaces"
+    },
+    {
+     "url": "https://github.com/features/copilot"
+    },
+    {
+     "url": "https://github.com/features/code-review"
+    },
+    {
+     "url": "https://github.com/features/issues"
+    },
+    {
+     "url": "https://github.com/features/discussions"
+    },
+    {
+     "url": "https://github.com/features"
+    },
+    {
+     "url": "https://github.com/enterprise"
+    },
+    {
+     "url": "https://github.com/team"
+    },
+    {
+     "url": "https://github.com/enterprise/startups"
+    },
+    {
+     "url": "https://github.com/solutions/ci-cd"
+    },
+    {
+     "url": "https://github.com/solutions/devops"
+    },
+    {
+     "url": "https://github.com/customer-stories"
+    },
+    {
+     "url": "https://github.com/sponsors"
+    },
+    {
+     "url": "https://github.com/readme"
+    },
+    {
+     "url": "https://github.com/topics"
+    },
+    {
+     "url": "https://github.com/trending"
+    },
+    {
+     "url": "https://github.com/collections"
+    },
+    {
+     "url": "https://github.com/pricing"
+    },
+    {
+     "url": "https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Fabout%2Fpress&source=header"
+    },
+    {
+     "url": "https://github.com/about"
+    },
+    {
+     "url": "https://github.com/logos"
+    },
+    {
+     "url": "https://github.com/about/press?page=2"
+    },
+    {
+     "url": "https://github.com/about/press?page=3"
+    },
+    {
+     "url": "https://github.com/about/press?page=4"
+    },
+    {
+     "url": "https://github.com/about/press?page=5"
+    },
+    {
+     "url": "https://github.com/about/press?page=52"
+    },
+    {
+     "url": "https://github.com/about/press?page=53"
+    },
+    {
+     "url": "https://github.com/security"
+    },
+    {
+     "url": "https://github.com/github/roadmap"
+    },
+    {
+     "url": "https://github.com/premium-support"
+    },
+    {
+     "url": "https://github.com/customer-stories?type=enterprise"
+    },
+    {
+     "url": "https://github.com/about/diversity"
+    },
+    {
+     "url": "https://github.com/github/site-policy/pull/582"
+    },
+    {
+     "url": "https://github.com/sitemap"
+    },
+    {
+     "url": "https://github.com/git-guides"
+    },
+    {
+     "url": "https://github.com/github"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/policies/",
+   "title": "Policies | npm Docs",
+   "children": [
+    {
+     "url": "https://docs.npmjs.com/policies#search-box-input"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies#skip-to-content"
+    },
+    {
+     "url": "https://docs.npmjs.com/"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-new-npm-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-strong-password"
+    },
+    {
+     "url": "https://docs.npmjs.com/receiving-a-one-time-password-over-email"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-two-factor-authentication"
+    },
+    {
+     "url": "https://docs.npmjs.com/configuring-two-factor-authentication"
+    },
+    {
+     "url": "https://docs.npmjs.com/accessing-npm-using-2fa"
+    },
+    {
+     "url": "https://docs.npmjs.com/recovering-your-2fa-enabled-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-your-profile-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/changing-your-npm-username"
+    },
+    {
+     "url": "https://docs.npmjs.com/deleting-your-npm-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/requesting-your-data"
+    },
+    {
+     "url": "https://docs.npmjs.com/upgrading-to-a-paid-user-account-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-user-account-billing-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/downgrading-to-a-free-user-account-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-npm-versions"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/generating-and-locating-npm-debug.log-files"
+    },
+    {
+     "url": "https://docs.npmjs.com/common-errors"
+    },
+    {
+     "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-node"
+    },
+    {
+     "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-the-public-npm-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-packages-and-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-scopes"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-private-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/package-scope-access-level-and-visibility"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-package-json-file"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-node-js-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-package-readme-files"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-scoped-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-private-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/package-name-guidelines"
+    },
+    {
+     "url": "https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-semantic-versioning"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-dist-tags-to-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/changing-package-visibility"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-collaborators-to-private-packages-owned-by-a-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-your-published-package-version-number"
+    },
+    {
+     "url": "https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions"
+    },
+    {
+     "url": "https://docs.npmjs.com/transferring-a-package-from-a-user-account-to-another-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/unpublishing-packages-from-the-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/searching-for-and-choosing-packages-to-download"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-packages-locally"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-packages-globally"
+    },
+    {
+     "url": "https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-packages-downloaded-from-the-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-npm-packages-in-your-projects"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-deprecated-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/uninstalling-packages-and-dependencies"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-audit-reports"
+    },
+    {
+     "url": "https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities"
+    },
+    {
+     "url": "https://docs.npmjs.com/generating-provenance-statements"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-registry-signatures"
+    },
+    {
+     "url": "https://docs.npmjs.com/verifying-registry-signatures"
+    },
+    {
+     "url": "https://docs.npmjs.com/requiring-2fa-for-package-publishing-and-settings-modification"
+    },
+    {
+     "url": "https://docs.npmjs.com/reporting-malware-in-an-npm-package"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-viewing-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/revoking-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-private-packages-in-a-ci-cd-workflow"
+    },
+    {
+     "url": "https://docs.npmjs.com/docker-and-private-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/converting-your-user-account-to-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/requiring-two-factor-authentication-in-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/renaming-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/deleting-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/upgrading-to-a-paid-organization-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-organization-billing-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/downgrading-to-a-free-organization-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-members-to-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/accepting-or-rejecting-an-organization-invitation"
+    },
+    {
+     "url": "https://docs.npmjs.com/organization-roles-and-permissions"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-organization-permissions"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-members-from-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-developers-team"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-organization-members-to-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-organization-members-from-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-team-access-to-organization-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-organization-scopes-and-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/configuring-your-npm-client-with-your-organization-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/open-source-terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/private-terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/disputes"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/npm-license"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/unpublish"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/dmca"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/logos-and-usage"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/security"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/crawlers"
+    },
+    {
+     "url": "https://docs.npmjs.com/threats-and-mitigations"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-access"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-adduser"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-audit"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-bugs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-cache"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ci"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-completion"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-config"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-dedupe"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-deprecate"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-diff"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-dist-tag"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-docs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-doctor"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-edit"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-exec"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-explain"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-explore"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-find-dupes"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-fund"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-help"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-help-search"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-hook"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-init"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-ci-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-link"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-login"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-logout"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ls"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-org"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-outdated"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-owner"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-pack"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ping"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-pkg"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-prefix"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-profile"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-prune"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-publish"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-query"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-rebuild"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-repo"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-restart"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-root"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-run-script"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-sbom"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-search"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-shrinkwrap"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-star"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-stars"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-start"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-stop"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-team"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-token"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-uninstall"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-unpublish"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-unstar"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-update"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-version"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-view"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-whoami"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npx"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/install"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/folders"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npmrc"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npm-shrinkwrap-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/package-spec"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/config"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/logging"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/scope"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/scripts"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/workspaces"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/orgs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/dependency-selectors"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/developers"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/removal"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/changelog"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/policies/terms",
+   "title": "Terms and Licenses | npm Docs",
+   "children": [
+    {
+     "url": "https://docs.npmjs.com/policies/terms#search-box-input"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/terms#skip-to-content"
+    },
+    {
+     "url": "https://docs.npmjs.com/"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-new-npm-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-strong-password"
+    },
+    {
+     "url": "https://docs.npmjs.com/receiving-a-one-time-password-over-email"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-two-factor-authentication"
+    },
+    {
+     "url": "https://docs.npmjs.com/configuring-two-factor-authentication"
+    },
+    {
+     "url": "https://docs.npmjs.com/accessing-npm-using-2fa"
+    },
+    {
+     "url": "https://docs.npmjs.com/recovering-your-2fa-enabled-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-your-profile-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/changing-your-npm-username"
+    },
+    {
+     "url": "https://docs.npmjs.com/deleting-your-npm-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/requesting-your-data"
+    },
+    {
+     "url": "https://docs.npmjs.com/upgrading-to-a-paid-user-account-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-user-account-billing-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/downgrading-to-a-free-user-account-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-npm-versions"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/generating-and-locating-npm-debug.log-files"
+    },
+    {
+     "url": "https://docs.npmjs.com/common-errors"
+    },
+    {
+     "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-node"
+    },
+    {
+     "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-the-public-npm-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-packages-and-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-scopes"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-private-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/package-scope-access-level-and-visibility"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-package-json-file"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-node-js-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-package-readme-files"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-scoped-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-private-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/package-name-guidelines"
+    },
+    {
+     "url": "https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-semantic-versioning"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-dist-tags-to-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/changing-package-visibility"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-collaborators-to-private-packages-owned-by-a-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-your-published-package-version-number"
+    },
+    {
+     "url": "https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions"
+    },
+    {
+     "url": "https://docs.npmjs.com/transferring-a-package-from-a-user-account-to-another-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/unpublishing-packages-from-the-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/searching-for-and-choosing-packages-to-download"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-packages-locally"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-packages-globally"
+    },
+    {
+     "url": "https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-packages-downloaded-from-the-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-npm-packages-in-your-projects"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-deprecated-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/uninstalling-packages-and-dependencies"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-audit-reports"
+    },
+    {
+     "url": "https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities"
+    },
+    {
+     "url": "https://docs.npmjs.com/generating-provenance-statements"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-registry-signatures"
+    },
+    {
+     "url": "https://docs.npmjs.com/verifying-registry-signatures"
+    },
+    {
+     "url": "https://docs.npmjs.com/requiring-2fa-for-package-publishing-and-settings-modification"
+    },
+    {
+     "url": "https://docs.npmjs.com/reporting-malware-in-an-npm-package"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-viewing-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/revoking-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-private-packages-in-a-ci-cd-workflow"
+    },
+    {
+     "url": "https://docs.npmjs.com/docker-and-private-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/converting-your-user-account-to-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/requiring-two-factor-authentication-in-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/renaming-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/deleting-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/upgrading-to-a-paid-organization-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-organization-billing-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/downgrading-to-a-free-organization-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-members-to-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/accepting-or-rejecting-an-organization-invitation"
+    },
+    {
+     "url": "https://docs.npmjs.com/organization-roles-and-permissions"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-organization-permissions"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-members-from-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-developers-team"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-organization-members-to-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-organization-members-from-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-team-access-to-organization-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-organization-scopes-and-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/configuring-your-npm-client-with-your-organization-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/open-source-terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/private-terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/disputes"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/npm-license"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/unpublish"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/dmca"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/logos-and-usage"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/security"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/crawlers"
+    },
+    {
+     "url": "https://docs.npmjs.com/threats-and-mitigations"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-access"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-adduser"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-audit"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-bugs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-cache"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ci"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-completion"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-config"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-dedupe"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-deprecate"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-diff"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-dist-tag"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-docs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-doctor"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-edit"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-exec"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-explain"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-explore"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-find-dupes"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-fund"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-help"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-help-search"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-hook"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-init"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-ci-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-link"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-login"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-logout"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ls"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-org"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-outdated"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-owner"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-pack"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ping"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-pkg"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-prefix"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-profile"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-prune"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-publish"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-query"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-rebuild"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-repo"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-restart"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-root"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-run-script"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-sbom"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-search"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-shrinkwrap"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-star"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-stars"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-start"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-stop"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-team"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-token"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-uninstall"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-unpublish"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-unstar"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-update"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-version"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-view"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-whoami"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npx"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/install"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/folders"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npmrc"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npm-shrinkwrap-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/package-spec"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/config"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/logging"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/scope"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/scripts"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/workspaces"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/orgs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/dependency-selectors"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/developers"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/removal"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/changelog"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/terms#software-from-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/terms#free-to-use-npm-services"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/terms#paid-npm-services"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/open-source-terms#acceptable-use"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/trademark"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/disputes#trademarks"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/solo-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/orgs-plan"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/policies/conduct",
+   "title": "npm Code of Conduct | npm Docs",
+   "children": [
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#search-box-input"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#skip-to-content"
+    },
+    {
+     "url": "https://docs.npmjs.com/"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-new-npm-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-strong-password"
+    },
+    {
+     "url": "https://docs.npmjs.com/receiving-a-one-time-password-over-email"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-two-factor-authentication"
+    },
+    {
+     "url": "https://docs.npmjs.com/configuring-two-factor-authentication"
+    },
+    {
+     "url": "https://docs.npmjs.com/accessing-npm-using-2fa"
+    },
+    {
+     "url": "https://docs.npmjs.com/recovering-your-2fa-enabled-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-your-profile-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/changing-your-npm-username"
+    },
+    {
+     "url": "https://docs.npmjs.com/deleting-your-npm-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/requesting-your-data"
+    },
+    {
+     "url": "https://docs.npmjs.com/upgrading-to-a-paid-user-account-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-user-account-billing-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/downgrading-to-a-free-user-account-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-npm-versions"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/generating-and-locating-npm-debug.log-files"
+    },
+    {
+     "url": "https://docs.npmjs.com/common-errors"
+    },
+    {
+     "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-node"
+    },
+    {
+     "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-the-public-npm-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-packages-and-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-scopes"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-private-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/package-scope-access-level-and-visibility"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-package-json-file"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-node-js-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-package-readme-files"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-scoped-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-private-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/package-name-guidelines"
+    },
+    {
+     "url": "https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-semantic-versioning"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-dist-tags-to-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/changing-package-visibility"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-collaborators-to-private-packages-owned-by-a-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-your-published-package-version-number"
+    },
+    {
+     "url": "https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions"
+    },
+    {
+     "url": "https://docs.npmjs.com/transferring-a-package-from-a-user-account-to-another-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/unpublishing-packages-from-the-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/searching-for-and-choosing-packages-to-download"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-packages-locally"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-packages-globally"
+    },
+    {
+     "url": "https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-packages-downloaded-from-the-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-npm-packages-in-your-projects"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-deprecated-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/uninstalling-packages-and-dependencies"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-audit-reports"
+    },
+    {
+     "url": "https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities"
+    },
+    {
+     "url": "https://docs.npmjs.com/generating-provenance-statements"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-registry-signatures"
+    },
+    {
+     "url": "https://docs.npmjs.com/verifying-registry-signatures"
+    },
+    {
+     "url": "https://docs.npmjs.com/requiring-2fa-for-package-publishing-and-settings-modification"
+    },
+    {
+     "url": "https://docs.npmjs.com/reporting-malware-in-an-npm-package"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-viewing-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/revoking-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-private-packages-in-a-ci-cd-workflow"
+    },
+    {
+     "url": "https://docs.npmjs.com/docker-and-private-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/converting-your-user-account-to-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/requiring-two-factor-authentication-in-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/renaming-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/deleting-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/upgrading-to-a-paid-organization-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-organization-billing-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/downgrading-to-a-free-organization-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-members-to-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/accepting-or-rejecting-an-organization-invitation"
+    },
+    {
+     "url": "https://docs.npmjs.com/organization-roles-and-permissions"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-organization-permissions"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-members-from-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-developers-team"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-organization-members-to-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-organization-members-from-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-team-access-to-organization-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-organization-scopes-and-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/configuring-your-npm-client-with-your-organization-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/open-source-terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/private-terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/disputes"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/npm-license"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/unpublish"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/dmca"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/logos-and-usage"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/security"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/crawlers"
+    },
+    {
+     "url": "https://docs.npmjs.com/threats-and-mitigations"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-access"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-adduser"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-audit"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-bugs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-cache"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ci"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-completion"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-config"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-dedupe"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-deprecate"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-diff"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-dist-tag"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-docs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-doctor"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-edit"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-exec"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-explain"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-explore"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-find-dupes"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-fund"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-help"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-help-search"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-hook"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-init"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-ci-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-link"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-login"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-logout"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ls"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-org"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-outdated"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-owner"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-pack"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ping"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-pkg"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-prefix"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-profile"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-prune"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-publish"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-query"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-rebuild"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-repo"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-restart"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-root"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-run-script"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-sbom"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-search"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-shrinkwrap"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-star"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-stars"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-start"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-stop"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-team"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-token"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-uninstall"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-unpublish"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-unstar"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-update"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-version"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-view"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-whoami"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npx"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/install"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/folders"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npmrc"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npm-shrinkwrap-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/package-spec"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/config"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/logging"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/scope"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/scripts"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/workspaces"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/orgs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/dependency-selectors"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/developers"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/removal"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/changelog"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#tldr"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#scope"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#friendly-harassment-free-space"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#acceptable-use"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#reporting-violations-of-this-code-of-conduct"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#consequences"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#appeal-and-reinstatement"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#contact-info"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#changes"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct#credit-and-license"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/open-source-terms#acceptable-use"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/open-source-terms#acceptable-content"
+    }
+   ]
+  },
+  {
+   "url": "https://www.npmjs.com/policies/privacy",
+   "title": "Privacy Questions and Answers | npm Docs",
+   "children": [
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#search-box-input"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#skip-to-content"
+    },
+    {
+     "url": "https://docs.npmjs.com/"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-new-npm-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-strong-password"
+    },
+    {
+     "url": "https://docs.npmjs.com/receiving-a-one-time-password-over-email"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-two-factor-authentication"
+    },
+    {
+     "url": "https://docs.npmjs.com/configuring-two-factor-authentication"
+    },
+    {
+     "url": "https://docs.npmjs.com/accessing-npm-using-2fa"
+    },
+    {
+     "url": "https://docs.npmjs.com/recovering-your-2fa-enabled-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-your-profile-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/changing-your-npm-username"
+    },
+    {
+     "url": "https://docs.npmjs.com/deleting-your-npm-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/requesting-your-data"
+    },
+    {
+     "url": "https://docs.npmjs.com/upgrading-to-a-paid-user-account-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-user-account-billing-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/downgrading-to-a-free-user-account-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-npm-versions"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-node-js-and-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/generating-and-locating-npm-debug.log-files"
+    },
+    {
+     "url": "https://docs.npmjs.com/common-errors"
+    },
+    {
+     "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-node"
+    },
+    {
+     "url": "https://docs.npmjs.com/try-the-latest-stable-version-of-npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-the-public-npm-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-packages-and-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-scopes"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-private-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/package-scope-access-level-and-visibility"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-a-package-json-file"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-node-js-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-package-readme-files"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-unscoped-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-scoped-public-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-private-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/package-name-guidelines"
+    },
+    {
+     "url": "https://docs.npmjs.com/specifying-dependencies-and-devdependencies-in-a-package-json-file"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-semantic-versioning"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-dist-tags-to-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/changing-package-visibility"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-collaborators-to-private-packages-owned-by-a-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-your-published-package-version-number"
+    },
+    {
+     "url": "https://docs.npmjs.com/deprecating-and-undeprecating-packages-or-package-versions"
+    },
+    {
+     "url": "https://docs.npmjs.com/transferring-a-package-from-a-user-account-to-another-user-account"
+    },
+    {
+     "url": "https://docs.npmjs.com/unpublishing-packages-from-the-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/searching-for-and-choosing-packages-to-download"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-packages-locally"
+    },
+    {
+     "url": "https://docs.npmjs.com/downloading-and-installing-packages-globally"
+    },
+    {
+     "url": "https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-packages-downloaded-from-the-registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-npm-packages-in-your-projects"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-deprecated-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/uninstalling-packages-and-dependencies"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-audit-reports"
+    },
+    {
+     "url": "https://docs.npmjs.com/auditing-package-dependencies-for-security-vulnerabilities"
+    },
+    {
+     "url": "https://docs.npmjs.com/generating-provenance-statements"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-registry-signatures"
+    },
+    {
+     "url": "https://docs.npmjs.com/verifying-registry-signatures"
+    },
+    {
+     "url": "https://docs.npmjs.com/requiring-2fa-for-package-publishing-and-settings-modification"
+    },
+    {
+     "url": "https://docs.npmjs.com/reporting-malware-in-an-npm-package"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-viewing-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/revoking-access-tokens"
+    },
+    {
+     "url": "https://docs.npmjs.com/using-private-packages-in-a-ci-cd-workflow"
+    },
+    {
+     "url": "https://docs.npmjs.com/docker-and-private-modules"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/converting-your-user-account-to-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/requiring-two-factor-authentication-in-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/renaming-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/deleting-an-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/upgrading-to-a-paid-organization-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/viewing-downloading-and-emailing-receipts-for-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/updating-organization-billing-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/downgrading-to-a-free-organization-plan"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-members-to-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/accepting-or-rejecting-an-organization-invitation"
+    },
+    {
+     "url": "https://docs.npmjs.com/organization-roles-and-permissions"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-organization-permissions"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-members-from-your-organization"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-developers-team"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/adding-organization-members-to-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-organization-members-from-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/managing-team-access-to-organization-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/removing-teams"
+    },
+    {
+     "url": "https://docs.npmjs.com/about-organization-scopes-and-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/configuring-your-npm-client-with-your-organization-settings"
+    },
+    {
+     "url": "https://docs.npmjs.com/creating-and-publishing-an-organization-scoped-package"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/open-source-terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/private-terms"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/conduct"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/disputes"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/npm-license"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/unpublish"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/dmca"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/logos-and-usage"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/security"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/crawlers"
+    },
+    {
+     "url": "https://docs.npmjs.com/threats-and-mitigations"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-access"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-adduser"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-audit"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-bugs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-cache"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ci"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-completion"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-config"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-dedupe"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-deprecate"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-diff"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-dist-tag"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-docs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-doctor"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-edit"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-exec"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-explain"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-explore"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-find-dupes"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-fund"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-help"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-help-search"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-hook"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-init"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-ci-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-install-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-link"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-login"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-logout"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ls"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-org"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-outdated"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-owner"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-pack"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-ping"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-pkg"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-prefix"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-profile"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-prune"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-publish"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-query"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-rebuild"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-repo"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-restart"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-root"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-run-script"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-sbom"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-search"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-shrinkwrap"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-star"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-stars"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-start"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-stop"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-team"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-test"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-token"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-uninstall"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-unpublish"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-unstar"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-update"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-version"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-view"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npm-whoami"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/commands/npx"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/install"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/folders"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npmrc"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/npm-shrinkwrap-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/configuring-npm/package-lock-json"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/registry"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/package-spec"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/config"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/logging"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/scope"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/scripts"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/workspaces"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/orgs"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/dependency-selectors"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/developers"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/removal"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/v10/using-npm/changelog"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#whats-most-important"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#how-does-npm-collect-data-about-me"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#what-data-does-npm-collect-about-me-and-why"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#npm-collects-data-about-how-you-use-npm-software-and-registries"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#npm-collects-data-about-how-you-use-the-website"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#npm-collects-account-data"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#npm-collects-package-data"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#npm-collects-payment-card-data"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#npm-collects-data-about-correspondence"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#npm-collects-data-about-use-of-npmcommunity"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#does-npm-share-data-about-me-with-others"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#npm-uses-cookies"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#how-can-i-make-choices-about-data-collection"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#where-does-npm-keep-data-about-me"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#how-does-npm-handle-data-under-the-eu-general-data-protection-regulation"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#how-does-npm-handle-data-under-the-california-consumer-privacy-act"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#how-can-i-see-what-data-is-publicly-available-about-me"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#how-can-i-change-data-about-me"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#what-is-npms-policy-on-unpublishing-packages"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#how-does-npm-notify-others-about-published-data-thats-erased"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#what-happens-if-npm-merges-with-or-is-bought-by-another-company"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#what-are-npms-information-practices-regarding-information-belonging-to-children"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#who-can-i-contact-about-npm-and-my-privacy"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/privacy#how-can-i-find-out-about-changes"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/commands/npx"
+    },
+    {
+     "url": "https://docs.npmjs.com/cli/audit"
+    },
+    {
+     "url": "https://docs.npmjs.com/files/package.json#files"
+    },
+    {
+     "url": "https://docs.npmjs.com/policies/open-source-terms#your-content"
+    },
+    {
+     "url": "https://docs.npmjs.com/files/package.json#license"
+    }
+   ]
+  }
+ ]
+}

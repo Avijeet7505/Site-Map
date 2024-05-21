@@ -77,12 +77,9 @@ export function AuthenticationTitle() {
             <Group size='md' display='flex' justify='center' my={20} gap={15}>
                 <Paper withBorder shadow="md" p={30} mt={30} radius="md" style={{ width: 500 }}>
                     <form onSubmit={signupForm.handleSubmit}>
-                        <TextInput label="Name" placeholder="Your Name" type='text' id='name' onChange={signupForm.handleChange} value={signupForm.values.name} />
-                        {signupForm.touched.name && (<small className='text-light'>{signupForm.errors.name}</small>)}
-                        <TextInput label="Contact No." placeholder="Your contact no." type='number' id='contact' onChange={signupForm.handleChange} value={signupForm.values.contact} />
-                        {signupForm.touched.contact && (<small className='text-light'>{signupForm.errors.contact}</small>)}
-                        <TextInput label="Email" placeholder="you@mantine.dev" type='email' id='email' onChange={signupForm.handleChange} value={signupForm.values.email} />
-                        {signupForm.touched.email && (<small className='text-light'>{signupForm.errors.email}</small>)}
+                        <TextInput error={signupForm.touched.name && signupForm.errors.name} label="Name" placeholder="Your Name" type='text' id='name' onChange={signupForm.handleChange} value={signupForm.values.name} />
+                        <TextInput error={signupForm.touched.contact && signupForm.errors.contact} label="Contact No." placeholder="Your contact no." type='number' id='contact' onChange={signupForm.handleChange} value={signupForm.values.contact} />
+                        <TextInput error={signupForm.touched.email && signupForm.errors.email} label="Email" placeholder="you@mantine.dev" type='email' id='email' onChange={signupForm.handleChange} value={signupForm.values.email} />
                         <PasswordInput error={signupForm.touched.password && signupForm.errors.password} label="Password" placeholder="Your password" mt="md" type='password' id='password' onChange={signupForm.handleChange} value={signupForm.values.password} />
                         <Button fullWidth mt="xl" type='submit'>Sign Up</Button>
                     </form>

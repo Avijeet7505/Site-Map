@@ -1,3 +1,4 @@
+
 'use client';
 import React, { useRef, useState } from 'react';
 import { TextInput, TextInputProps, ActionIcon, useMantineTheme, rem, Container, Text, Box, Textarea, Grid, SimpleGrid, Group, Button, Flex } from '@mantine/core';
@@ -5,7 +6,7 @@ import { IconSearch, IconArrowRight, IconDownload } from '@tabler/icons-react';
 import toast from 'react-hot-toast';
 import { Demo } from './Demo';
 import { ButtonCopy } from './ButtonCopy';
-import { XMLParser, XMLBuilder } from 'xml-js';
+import { json2xml } from 'xml-js';
 
 const SitemapGenerator = () => {
 
@@ -17,14 +18,14 @@ const SitemapGenerator = () => {
     const [sitemapJSON, setSitemapJSON] = useState('');
     const [sitemapXML, setSitemapXML] = useState('');
 
-    const saveSitemap = () => {
+    const saveSitemap = (filename) => {
         fetch('http://localhost:5500/sitemap/add',
             {
                 method: 'POST', body: JSON.stringify({
                     user: currentUser._id,
                     title: inputRef.current.value,
                     url: inputRef.current.value,
-                    file: ''
+                    file: filename
                 }),
                 headers: {
                     'Content-Type': 'application/json'
@@ -50,30 +51,36 @@ const SitemapGenerator = () => {
             .then(res => res.json())
             .then(data => {
                 setSitemapJSON(JSON.stringify(data));
-                convertToXml(JSON.stringify(data));
             })
     }
 
-    const convertToXml = (json) => {
-
-        const parser = new XMLParser();
-        const jsObject = parser.parseString(JSON.stringify(json)); // Parse JSON
-        const builder = new XMLBuilder({ headless: true }); // Create XML builder
-
-        const xml = builder.buildObject(jsObject); // Convert to XML
-        console.log(xml);
-        // return xml;
-        setSitemapXML(xml);
+    const convertToXml = () => {
+        if (!sitemapJSON) return '';
+        return json2xml(sitemapJSON, { compact: true, spaces: 4 })
     };
 
-    const downloadXml = () => {
-        const blob = new Blob([xmlData], { type: 'text/xml;charset=utf-8' });
+    const downloadXML = () => {
+        const blob = new Blob([convertToXml()], { type: 'text/xml;charset=utf-8' });
         const url = window.URL.createObjectURL(blob);
         const link = document.createElement('a');
         link.href = url;
         link.setAttribute('download', 'data.xml');
         link.click();
     };
+
+    const downloadJSON = () => {
+        const blob = new Blob([sitemapJSON], { type: 'application/json' });
+        const url = window.URL.createObjectURL(blob);
+        const link = document.createElement('a');
+        link.href = url;
+        link.setAttribute('download', 'data.JSON');
+        link.click();
+    }
+
+    // Example usage:
+    // const jsonData = { some: "data", to: "download" };
+    // downloadJSON(jsonData, 'mydata.json');
+
 
     const generateSitemap = () => {
         fetch('http://localhost:5500/sitemap/generate', {
@@ -93,12 +100,13 @@ const SitemapGenerator = () => {
                 console.log(data);
                 // setSitemapUrl(data);
                 loadSitemap(data.outputDir)
-
+                saveSitemap(data.outputDir + '/crawl.json')
             })
             .catch((err) => {
                 console.log(err);
             });
     }
+
 
     return (
         <Box>
@@ -123,8 +131,14 @@ const SitemapGenerator = () => {
                     <Group>
                         <Group justify='flex-end' w={'100%'}>
                             {/* <Demo></Demo> */}
-                            <ButtonCopy></ButtonCopy>
-                            <Button rightSection={<IconDownload size={14} />}>Download</Button>
+                            <ButtonCopy text={sitemapJSON}></ButtonCopy>
+                            <Button
+                                radius="xl"
+                                size='sm'
+                                styles={{
+                                    root: { paddingRight: rem(14), height: rem(40) },
+                                    section: { marginLeft: rem(22) },
+                                }} onClick={downloadJSON} rightSection={<IconDownload size={14} />}>Download</Button>
                             <Textarea w={'100%'} rows={28} value={sitemapJSON}
                                 // onChange={(event) => sitemapJSON.useSitemapJSON(event.currentTarget.value)}
                                 readOnly
@@ -133,11 +147,11 @@ const SitemapGenerator = () => {
                     </Group>
                     <Group>
                         <Group justify='flex-end' w={'100%'}>
-                            <ButtonCopy></ButtonCopy>
+                            <ButtonCopy text={convertToXml()}></ButtonCopy>
                             {/* <Demo></Demo> */}
-                            <Button size='xs' rightSection={<IconDownload size={14} />}>Download</Button>
+                            <Button onClick={downloadXML} size='xs' rightSection={<IconDownload size={14} />}>Download</Button>
                             <Textarea w={'100%'} rows={28}
-                                value={sitemapXML}
+                                value={convertToXml()}
                             />
                         </Group>
                     </Group>
