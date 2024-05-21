@@ -57,9 +57,9 @@ export function TableReviews() {
                     {row.file}
                 </Table.Td>
                 <Table.Td>
-                    <Group >
-                        <Button color='red' onClick={() => { deleteSitemap(row._id) }}>Delete</Button>
-                        <Button >Download</Button>
+                    <Group gap={15}>
+                        <Button size='xs' color='red' onClick={() => { deleteSitemap(row._id) }}>Delete</Button>
+                        <Button size='xs' px={5}>Download</Button>
                     </Group>
                 </Table.Td>
             </Table.Tr>
@@ -71,7 +71,7 @@ export function TableReviews() {
             <Table verticalSpacing='xl'>
                 <Table.Thead>
                     <Table.Tr fz={25} px='xl'>
-                        <Table.Th>Site-Map Title</Table.Th>
+                        <Table.Th>SiteMap Title</Table.Th>
                         <Table.Th>Date</Table.Th>
                         <Table.Th>File Name </Table.Th>
                         <Table.Th>Action</Table.Th>
