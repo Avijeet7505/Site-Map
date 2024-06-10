@@ -16,15 +16,15 @@ import classes from './FeaturesCards.module.css';
 
 const mockdata = [
     {
-        title: 'Extreme performance',
+        title: 'Reliability',
         description:
-            'This dust is actually a powerful poison that will even make a pro wrestler sick, Regice cloaks itself with frigid air of -328 degrees Fahrenheit',
+            'Our service sees your site as it is seen by live visitors and search engine crawlers. Processes websites running on any platform, programming language, or CMS.',
         icon: IconGauge,
     },
     {
-        title: 'Privacy focused',
+        title: 'Efficiency',
         description:
-            'People say it can run at the same speed as lightning striking, Its icy body is so cold, it will not melt even if it is immersed in magma',
+            'The average load that our service creates during the processing of the website is commensurate with the simultaneous work of only three active visitors.',
         icon: IconUser,
     },
     {

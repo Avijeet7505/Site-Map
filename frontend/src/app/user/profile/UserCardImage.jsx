@@ -35,7 +35,7 @@ export function UserCardImage() {
             <Avatar
                 src="https://raw.githubusercontent.com/mantinedev/mantine/master/.demo/avatars/avatar-9.png"
                 size={200}
-                radius={80}
+                radius={100}
                 mx="auto"
                 mt={-90}
                 className={classes.avatar}

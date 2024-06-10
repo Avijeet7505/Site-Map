@@ -149,8 +149,8 @@ export function HeaderMegaMenu() {
                 </div>
               </HoverCard.Dropdown>
             </HoverCard> */}
-            <Link href="/about" className={classes.link}>
-              About
+            <Link href="./feedback" className={classes.link}>
+              Feedback
             </Link>
             <Link href="/contact" className={classes.link}>
               Contact
@@ -198,8 +198,8 @@ export function HeaderMegaMenu() {
             </Center>
           </UnstyledButton>
           <Collapse in={linksOpened}>{links}</Collapse> */}
-          <Link href="/about" className={classes.link}>
-            About
+          <Link href="./feedback" className={classes.link}>
+            Feedback
           </Link>
           <Link href="/contact" className={classes.link}>
             Contact

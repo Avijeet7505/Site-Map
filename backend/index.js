@@ -3,6 +3,7 @@
 const express = require('express');
 const userRouter = require('./routers/userRouter');
 const sitemapRouter = require('./routers/siteMapRouter');
+const feedbackRouter = require('./routers/feedbackRouter');
 const cors = require('cors');
 
 //initialize  the app and set it to run on port 
@@ -18,6 +19,7 @@ app.use(express.json());   //parse incoming requests of content type - applicati
 
 app.use('/user', userRouter);
 app.use('/sitemap', sitemapRouter);
+app.use('/feedback', feedbackRouter);
 
 app.use(express.static('./output'))
 

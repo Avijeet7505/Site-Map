@@ -25,7 +25,7 @@ const data = [
     { link: './home', label: 'Dashboard', icon: IconHome },
     { link: 'profile', label: 'Profile', icon: IconUser },
     { link: 'sitemap-generater', label: 'Site-Map Generator', icon: IconMap },
-    { link: '', label: 'Feedback', icon: IconClipboard },
+    { link: 'feedback', label: 'Feedback', icon: IconClipboard },
     { link: 'saved-sitemap', label: 'Generated Site-map', icon: IconSquareChevronsDown },
 ];
 

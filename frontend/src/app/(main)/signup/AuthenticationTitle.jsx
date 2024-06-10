@@ -21,7 +21,7 @@ import toast from 'react-hot-toast';
 
 const SignupSchema = Yup.object().shape({
     name: Yup.string().min(6, 'too Short!').required("Required"),
-    contact: Yup.string().min(10, 'too Short!').required("Required").max(10, 'phone no invalid!'),
+    contact: Yup.string().min(10, 'too Short!').required("Required").max(10, 'phone no. invalid!'),
     email: Yup.string().email('Invalid email').required('Required'),
     password: Yup.string().required('Password is required').min(6, "Too short")
 });
