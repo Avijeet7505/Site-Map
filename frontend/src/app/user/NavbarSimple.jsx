@@ -22,11 +22,11 @@ import Link from 'next/link';
 import { IconUserCircle } from '@tabler/icons-react';
 
 const data = [
-    { link: './home', label: 'Dashboard', icon: IconHome },
+    // { link: './home', label: 'Dashboard', icon: IconHome },
     { link: 'profile', label: 'Profile', icon: IconUser },
     { link: 'sitemap-generater', label: 'Site-Map Generator', icon: IconMap },
     { link: 'feedback', label: 'Feedback', icon: IconClipboard },
-    { link: 'saved-sitemap', label: 'Generated Site-map', icon: IconSquareChevronsDown },
+    { link: 'SavedSiteMap', label: 'Generated Site-map', icon: IconSquareChevronsDown },
 ];
 
 export function NavbarSimple() {

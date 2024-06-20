@@ -149,7 +149,7 @@ const SitemapGenerator = () => {
                         <Group justify='flex-end' w={'100%'}>
                             <ButtonCopy text={convertToXml()}></ButtonCopy>
                             {/* <Demo></Demo> */}
-                            <Button onClick={downloadXML} size='xs' rightSection={<IconDownload size={14} />}>Download</Button>
+                            <Button onClick={downloadXML} size='sm' radius='xl' rightSection={<IconDownload size={14} />}>Download</Button>
                             <Textarea w={'100%'} rows={28}
                                 value={convertToXml()}
                             />

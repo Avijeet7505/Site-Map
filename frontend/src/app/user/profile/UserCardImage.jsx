@@ -2,6 +2,7 @@
 import { Card, Avatar, Text, Group, Button } from '@mantine/core';
 import classes from './UserCardImage.module.css';
 import Link from 'next/link';
+import { useState } from 'react';
 
 const stats = [
     { value: '34K', label: 'Followers' },
@@ -10,6 +11,9 @@ const stats = [
 ];
 
 export function UserCardImage() {
+
+    const [currentUser, setCurrentUser] = useState(JSON.parse(sessionStorage.getItem('user')));
+
     const items = stats.map((stat) => (
         <div key={stat.label}>
             <Text ta="center" fz="lg" fw={500}>
@@ -41,10 +45,10 @@ export function UserCardImage() {
                 className={classes.avatar}
             />
             <Text ta="center" fz="xl" fw={600} mt="md">
-                Anish Yadav
+                {currentUser.name}
             </Text>
             <Text ta="center" fz="lg" c="dimmed">
-                Fullstack engineer
+                {currentUser.email}
             </Text>
             <Group mt="xl" justify="center" gap={40}>
                 {items}

@@ -59,7 +59,7 @@ const AuthenticationForm = (props) => {
           response.json()
             .then((data) => {
               sessionStorage.setItem('user', JSON.stringify(data));
-              router.push('/user/home');
+              router.push('/user/profile');
             })
 
         } else {
@@ -93,6 +93,7 @@ const AuthenticationForm = (props) => {
 
                 <TextInput
                   required
+                  // type='email'
                   label="Email"
                   placeholder="hello@mantine.dev"
                   value={form.values.email}
@@ -100,7 +101,6 @@ const AuthenticationForm = (props) => {
                   error={form.errors.email && 'Invalid email'}
                   radius="md"
                 />
-
                 <PasswordInput
                   required
                   label="Password"
